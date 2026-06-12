@@ -18,3 +18,4 @@ cmake --build build
 
 ## Example Screenshot
 
+![App Screenshot](example-screenshots/example-screenshot.png)
