@@ -3,9 +3,13 @@
 A simple Mandelbrot Set made in C++ with SFML.
 
 
+
+
 ## Dependencies
 
 SFML 3
+
+
 
 
 ## Building
@@ -14,6 +18,8 @@ SFML 3
 cmake -S . -B build
 cmake --build build
 `
+
+
 
 
 ## Example Screenshot
